@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-image: url(Pong-TA-B1C1YX.jpg.webp) ;
+}
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat+Alternates:ital,wght@1,500&display=swap');
+@font-face {
+    font-family: "indieFlower" ;
+    src: url(IndieFlower-Regular.ttf);
+}
+h1 {
+    font-family: "indieFlower";
+    color: #fff;
+    font-size: 50px;
+    font-weight: 1000;
+    display: center;
+}
+#board {
+    background-color: aqua;
+    border-top: 5px solid blue;
+    border-bottom: 5px solid blue;
+    
+}
